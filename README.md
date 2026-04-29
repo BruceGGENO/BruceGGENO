@@ -15,4 +15,7 @@ Kon'nichiwa, I'm Bruce<br>I am a Software Engineering student aspiring to be bet
 ---
 [![](https://komarev.com/ghpvc/?username=BruceGGENO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Codewars Progress:
+I actively solve challenges to strengthen my problem-solving skills and coding efficiency.
+
+![Codewars](https://www.codewars.com/users/Bruce_GGENO/badges/large)
