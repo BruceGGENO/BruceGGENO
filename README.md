@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kon'nichiwa, I'm Bruce<br>I am a Software Engineering student aspiring to be better<br>at what I'm studying. I like to experiment with ideas until I find<br>a solution to a problem. I also like to apply what I learn and <br>and try to learn more I possibly can.<br><br>🧠Current interests: Java, JavaScript and Git<br>
+Kon'nichiwa, I'm Bruce<br>I am a Software Engineering student aspiring to be better<br>at what I'm studying. I like to experiment with ideas until I find<br>a solution to a problem. I also like to apply what I learn and <br>and try to learn more I possibly can.<br><br>🧠Current interests: Java, JavaScript, CSS and Git<br>
 
 
 ## 🌐 Socials:
